@@ -1,4 +1,4 @@
-# 제5회 세종특별자치시 빅데이터 분석 아이디어 공모전
+# 🌡제5회 세종특별자치시 빅데이터 분석 아이디어 공모전
 
 
 <img src="https://github.com/maango97/sejong-bigdata-contest/blob/main/%EC%A0%9C%EC%B6%9C%EB%AC%BC%20%ED%91%9C%EC%A7%80.png" width="600" height="320"/>
@@ -8,7 +8,7 @@
 - [발표 자료 PDF](https://github.com/maango97/sejong-bigdata-contest/blob/main/%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%8C%E1%85%A6%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%86%E1%85%AE%E1%86%AF.pdf)
 
 
-## 분석 개요
+## 📋분석 개요
 
 
 - **문제 정의**
@@ -37,7 +37,7 @@
       - 해결 방법 : 지름 627m의 원을 생성해 그 원이 커버하는 유동인구수를 고려함. 여기서 **627m는 세종시 동일 노선 내 버스 정류장 간 평균 거리**임. 버스 이용량이 많은 세종시 특성상 **627m 거리 내에서는 사람들이 버스에서 내려 걸어갈 가능성이 높으므로 도보권이라 판단**함
 
 
-## 환경
+## ⚙️환경
 
 
 - Anaconda-Jupyter Notebook
