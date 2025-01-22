@@ -41,3 +41,4 @@
 
 
 - Anaconda-Jupyter Notebook
+- Oracle
